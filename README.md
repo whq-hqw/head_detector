@@ -30,7 +30,7 @@ conda activate vgg_heads
 #### Clone the project and install the package
 
 ```bash
-git clone https://github.com/KupynOrest/head_detector.git
+git clone https://github.com/whq-hqw/head_detector.git
 cd head_detector
 
 pip install -e ./
@@ -39,7 +39,7 @@ pip install -e ./
 Or simply install
 
 ```bash
-pip install git+https://github.com/KupynOrest/head_detector.git
+pip install git+https://github.com/whq-hqw/head_detector.git
 ```
 
 ## Usage
